@@ -25,6 +25,7 @@
     const file = event.target.files[0];
     if (file.type.startsWith("image/")) {
       imageFile = file;
+      event.target.value = ''
     } else {
       alert("Please select an image file.");
     }
