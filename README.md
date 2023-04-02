@@ -14,7 +14,7 @@ Builded by Tauri and Svelte.
 
 4. release `yarn tauri build`
 
-If you use Mac, you can download the release build from ''. If you want to build for Windows, you need to change the config in `src-tauri/tauri.conf.json`, change the `bundle: targets` to your target platform.
+If you use Mac, you can download the release build from [release](https://github.com/tiodot/always-on-top/releases/tag/v0.0.1). If you want to build for Windows, you need to change the config in `src-tauri/tauri.conf.json`, change the `bundle: targets` to your target platform.
 
 
 ## Recommended IDE Setup
