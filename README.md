@@ -3,6 +3,8 @@ A tool can sticky to the top of window that support uploading image from local o
 
 Builded by Tauri and Svelte.
 
+![](2023-04-03-00-59-35.png)
+
 ![](2023-04-03-00-46-59.png)
 
 # how to use
