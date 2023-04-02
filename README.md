@@ -1,6 +1,21 @@
-# Tauri + Svelte + Typescript
+# Always on top
+A tool can sticky to the top of window that support uploading image from local or pasting from clipboard.
 
-This template should help get you started developing with Tauri, Svelte and TypeScript in Vite.
+Builded by Tauri and Svelte.
+
+![](2023-04-03-00-46-59.png)
+
+# how to use
+1. clone the repo
+
+2. install the dependecies by `yarn`
+
+3. preview locally by `yarn tauri dev`
+
+4. release `yarn tauri build`
+
+If you use Mac, you can download the release build from ''. If you want to build for Windows, you need to change the config in `src-tauri/tauri.conf.json`, change the `bundle: targets` to your target platform.
+
 
 ## Recommended IDE Setup
 
